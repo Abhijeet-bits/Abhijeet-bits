@@ -1,110 +1,140 @@
-<h1 align="center">💫 Hi 👋, I'm Abhijeet Acharya</h1>
+<h1 align="center">Hi 👋, I'm Abhijeet Acharya</h1>
 
 <h3 align="center">
-🚀 GenAI & Machine Learning Enthusiast | Aspiring Software Engineer | Tech Explorer from India 🇮🇳
+🚀 GenAI & Machine Learning Enthusiast | Aspiring Software Engineer | Full-Stack Developer
 </h3>
 
 <p align="center">
-Building intelligent systems, scalable applications, and production-ready AI solutions.
+I build intelligent AI systems, scalable backend applications, and production-ready digital solutions.
 </p>
 
 <p align="center">
   <a href="mailto:abhijeetkumaracharya02@gmail.com">
     <img src="https://img.shields.io/badge/Email-abhijeetkumaracharya02%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://linkedin.com/in/abhijeet-acharya-89756b358">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhijeet%20Acharya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhijeet-Zone&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Abhijeet-Zone?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/Abhijeet-Zone?label=GitHub%20Followers&style=for-the-badge&color=blue" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-- 👨‍💻 Passionate about **Generative AI, Machine Learning, Backend Development, and scalable systems**
-- 🚀 Building **real-world AI applications, intelligent assistants & production-ready solutions**
-- 👯 Open to collaboration on **AI/ML projects, GenAI apps, hackathons & open-source**
-- 🌱 Exploring **RAG, LLM integrations, scalable AI systems & cloud deployment**
-- 💬 Ask me about **GenAI, ML, APIs, System Design & Full-Stack Development**
-- 😄 Pronouns: **He / Him**
-- ⚡ Fun fact: I simplify complex tech into practical solutions 🚀
+I am a technology enthusiast focused on building practical, scalable, and intelligent software solutions.  
+My main interests include **Generative AI, Machine Learning, Backend Engineering, Full-Stack Development, RAG systems, APIs, and cloud deployment**.
+
+- 🔭 Currently working on **AI-powered applications and production-ready ML systems**
+- 🌱 Exploring **LLMs, RAG, scalable backend systems, cloud deployment, and system design**
+- 👯 Open to collaboration on **AI/ML projects, hackathons, open-source, and real-world software products**
+- 💬 Ask me about **Generative AI, Machine Learning, APIs, Backend Development, and Full-Stack Projects**
+- 🎯 Goal: To become a strong **AI-focused Software Engineer**
+- ⚡ Fun fact: I enjoy converting complex technical ideas into simple and usable solutions
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://discord.gg/abhi015013">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-<a href="https://instagram.com/abhijeet_a.02">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/abhijeet-acharya-89756b358">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:abhijeetkumaracharya02@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://discord.gg/abhi015013">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/abhijeet_a.02">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/abhijeet-acharya-89756b358">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abhijeetkumaracharya02@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 💻 Tech Stack
+## 🧰 Tech Stack
 
-### 🧑‍💻 Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+### Programming Languages
 
-### 🤖 AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
 
-### 🌐 Web & Backend
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+### AI / Machine Learning
 
-### 🗄 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
 
-### ☁️ Tools & Cloud
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+### Web & Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
+</p>
+
+### Cloud & Developer Tools
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 
-
-📊 GitHub Stats + Streak 🔥
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhijeet-Zone&show_icons=true&theme=radical&hide_border=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijeet-Zone&theme=radical&hide_border=true" /> </p> <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet-Zone&layout=compact&theme=radical&hide_border=true" /> </p>
-📈 Activity Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijeet-Zone&theme=react-dark&hide_border=true" /> </p>
-✍️ Random Dev Quote
+📊 GitHub Analytics
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhijeet-Zone&show_icons=true&theme=radical&hide_border=true&count_private=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijeet-Zone&theme=radical&hide_border=true" /> </p> <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet-Zone&layout=compact&theme=radical&hide_border=true" /> </p>
+📈 Contribution Activity
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijeet-Zone&theme=react-dark&hide_border=true&area=true" /> </p>
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Abhijeet-Zone&theme=radical&no-frame=true&no-bg=true&margin-w=4" /> </p>
+✍️ Developer Quote
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </p>
 🐍 Contribution Snake
 <p align="center"> <img src="https://profile-readme-generator.com/assets/snake.svg" /> </p>
 
 ---
 
-## 🚀 Focus Areas
+## 🚀 Core Focus Areas
 
 ```txt
-🤖 Generative AI
-🧠 Machine Learning
-📚 RAG Systems
-🌐 Full-Stack Apps
-⚙️ Backend APIs
+🤖 Generative AI Applications
+🧠 Machine Learning Systems
+📚 RAG-based AI Assistants
+🌐 Full-Stack Web Applications
+⚙️ REST API Development
+🗄 Database Design
 ☁️ Cloud Deployment
+📦 Production-Ready Software
