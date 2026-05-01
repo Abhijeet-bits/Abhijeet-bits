@@ -86,6 +86,17 @@ Building intelligent systems, scalable applications, and production-ready AI sol
 ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
+
+
+📊 GitHub Stats + Streak 🔥
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhijeet-Zone&show_icons=true&theme=radical&hide_border=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijeet-Zone&theme=radical&hide_border=true" /> </p> <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet-Zone&layout=compact&theme=radical&hide_border=true" /> </p>
+📈 Activity Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijeet-Zone&theme=react-dark&hide_border=true" /> </p>
+✍️ Random Dev Quote
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </p>
+🐍 Contribution Snake
+<p align="center"> <img src="https://profile-readme-generator.com/assets/snake.svg" /> </p>
+
 ---
 
 ## 🚀 Focus Areas
