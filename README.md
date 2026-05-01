@@ -8,7 +8,7 @@ Building intelligent systems, scalable applications, and turning ideas into prod
 </p>
 
 <p align="center">
-📩 <b>Email:</b> <a href="mailto:abhijeetkumaracharya02@gmail.com">abhijeetacharya02@gmail.com</a>
+📩 <b>Email:</b> <a href="mailto:abhijeetkumaracharya02@gmail.com">abhijeetkumaracharya02@gmail.com</a>
 </p>
 
 ---
