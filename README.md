@@ -18,8 +18,8 @@ I build intelligent AI systems, scalable backend applications, and production-re
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhijeet-Zone&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Abhijeet-Zone?label=GitHub%20Followers&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Abhijeet-bits&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Abhijeet-bits?label=GitHub%20Followers&style=for-the-badge&color=blue" />
 </p>
 
 ---
@@ -119,12 +119,12 @@ My main interests include **Generative AI, Machine Learning, Backend Engineering
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhijeet-Zone&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Abhijeet-Zone&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhijeet-bits&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Abhijeet-bits&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet-Zone&layout=compact&theme=radical&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet-bits&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -132,7 +132,7 @@ My main interests include **Generative AI, Machine Learning, Backend Engineering
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijeet-Zone&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijeet-bits&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ---
@@ -140,7 +140,7 @@ My main interests include **Generative AI, Machine Learning, Backend Engineering
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhijeet-Zone&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhijeet-bits&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
