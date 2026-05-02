@@ -114,16 +114,36 @@ My main interests include **Generative AI, Machine Learning, Backend Engineering
 </p>
 
 
-📊 GitHub Analytics
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhijeet-Zone&show_icons=true&theme=radical&hide_border=true&count_private=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijeet-Zone&theme=radical&hide_border=true" /> </p> <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet-Zone&layout=compact&theme=radical&hide_border=true" /> </p>
-📈 Contribution Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijeet-Zone&theme=react-dark&hide_border=true&area=true" /> </p>
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Abhijeet-Zone&theme=radical&no-frame=true&no-bg=true&margin-w=4" /> </p>
-✍️ Developer Quote
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </p>
-🐍 Contribution Snake
-<p align="center"> <img src="https://profile-readme-generator.com/assets/snake.svg" /> </p>
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhijeet-Zone&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Abhijeet-Zone&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet-Zone&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijeet-Zone&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhijeet-Zone&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
 
 ---
 
