@@ -129,11 +129,26 @@ My main interests include **Generative AI, Machine Learning, Backend Engineering
 
 ---
 
-## 📈 Contribution Activity
+## ✍️ Random Dev Quote
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijeet-bits&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" />
 </p>
+
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=Abhijeet-bits&icon=0&color=0"/>
+</p>
+## 📈 Activity Map 
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijeet-bits&theme=react-dark&hide_border=true" />
+</p>
+
 
 ---
 
